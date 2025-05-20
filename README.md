@@ -118,6 +118,6 @@ A full-stack AI-powered interview preparation platform that helps users practice
 This project is licensed under the [MIT License](LICENSE).
 
 ## Link 
-https://peppy-pony-23cbb4.netlify.app
+https://calisma-prep.netlify.app
 
 
